@@ -1,4 +1,4 @@
-# Typing Speed Test ⌨️
+# Typing Speed Test ⌨️ (Level-Easy)
 
 A simple Typing Speed Test application designed to measure your typing speed and accuracy. Practice and improve your typing skills with real-time feedback.
 
